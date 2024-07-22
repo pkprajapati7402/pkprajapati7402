@@ -85,8 +85,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📊 GitHub Stats
-
-![pkprajapati7402's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkprajapati7402&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=donut)
+![pkprajapati7402's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkprajapati7402&show_icons=true&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkprajapati7402&" alt="pkprajapati7402" /></p>
 
 ## 🏆 GitHub Trophies
 
