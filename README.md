@@ -53,6 +53,7 @@
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
 <div align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypto-etox&layout=compact&langs_count=10&hide=html,css"/>
  
   <img src="https://github-readme-stats.vercel.app/api?username=amirbayat0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
@@ -83,9 +84,11 @@ Krypto-etox/Krypto-etox is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=compact&langs_count=10)
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=donut)
+-->
 ![pkprajapati7402's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkprajapati7402&show_icons=true&theme=default)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkprajapati7402&" alt="pkprajapati7402" /></p>
 
