@@ -70,19 +70,6 @@
 -->
 
 
-<!---
-- 👋 Hi, I’m @Krypto-etox
-- 👀 I’m interested in Web Development, Cyber Security, AI, Data Science and Blockchain
-- 🌱 I’m currently learning C++ object oriented programming
-- 💞️ I’m looking to collaborate on Frontend Development and Data Science
-- 📫 How to reach me Mail: krypto.etox@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Web Scraping, Movies, Chess and Swimming
---->
-<!---
-Krypto-etox/Krypto-etox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=compact&langs_count=10)
