@@ -32,23 +32,8 @@
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 ###
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince.prajapati.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-kumar-prajapati/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22446812) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/princepra520) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harrykepler) 
 
-<div align="left">
-  <a href="https://instagram.com/prince.prajapati.1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-<!--   youtube, telegram -->
-  <a href="https://krypto.etox@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-
-  <a href="https://youtube.com/@harryregel" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/13671/youtube.svg" width="50" />
-  </a>
-  <a href="https://www.twitter.com/@princepra520" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" width="50" />
-  </a>
-</div>
 <!--
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
