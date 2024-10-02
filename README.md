@@ -53,7 +53,7 @@
 
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=compact&langs_count=10&hide=html)
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=donut)
 -->
