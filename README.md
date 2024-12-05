@@ -16,7 +16,7 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 
 - 💬 Talk to me about C++, Python, JavaScript, Java, React, Freelancing Opportunities, Open Source.
 
----
+
 
 <h2 align="left" style="color:white;" >💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 
@@ -32,7 +32,7 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+
 
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
@@ -42,7 +42,7 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/princepra520)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harrykepler)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -50,19 +50,18 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 ![pkprajapati7402's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkprajapati7402&show_icons=true&theme=default)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkprajapati7402&" alt="pkprajapati7402" /></p>
 
----
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pkprajapati7402&theme=onedark)
 
----
+
 
 ## Check Out My Work <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70px">
 
 ### My Portfolio Website: [Portfolio 🔗](http://www.princeprajapati.tech/)
 
----
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
