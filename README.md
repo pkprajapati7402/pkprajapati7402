@@ -36,10 +36,12 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 
 
 ## 📊 GitHub Stats
-
+<div align=center>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkprajapati7402&layout=compact&langs_count=10&hide=html)
 ![pkprajapati7402's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkprajapati7402&show_icons=true&theme=default)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkprajapati7402&" alt="pkprajapati7402" /></p>
+</div>
 
 
 ## 🏆 GitHub Trophies
