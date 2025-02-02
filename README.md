@@ -59,8 +59,9 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-<p><img align="center" src="lcfifty.gif" /></p>
+<div align="center" width=50>
+<p><img align="center" src="lcfifty.gif" width=70 /></p>
+<p><img align = "center" src="gen-gif.gif" width=70 /></p>
 </div>
 
 ---
