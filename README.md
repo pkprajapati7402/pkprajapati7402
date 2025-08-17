@@ -28,7 +28,7 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince.prajapati.1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/prince-kumar-prajapati/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/princekprajapati/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22446812)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/princepra520)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harrykepler)
@@ -52,7 +52,7 @@ My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a
 
 ## Check Out My Work <img src="https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70px">
 
-### My Portfolio Website: [Portfolio 🔗](http://www.princeprajapati.tech/)
+### My Portfolio Website: [Portfolio 🔗](http://www.alfaceti.me/)
 
 
 
