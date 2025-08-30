@@ -3,18 +3,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pkprajapati7402&color=blue)
 
 <p align="left">
-My name is Prince, and I work as a Web Developer. 🚀 Currently, I'm pursuing a degree in Computer Science & Engineering 📚, and I have a strong passion for Web/App Development, AI, Data Science, and Cyber Security. 💙 Right now, I'm actively involved in creating software and applications using different tools. If you're interested, you can check out my portfolio on GitHub! 📱👀
+My name is Prince, and I work as a Software Developer. 🚀 Currently, I'm pursuing a degree in Computer Science & Technology 📚, and I have a strong passion for Full Stack Software Development, Artificial Intelligence, Machine Learning, Data Science, and Blockchain. 💙 Right now, I'm actively involved in creating software and applications using different tools. If you're interested, you can check out my portfolio on GitHub! 📱👀
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on Community Projects
 
-- 🌱 I’m currently learning C++, Android/iOS Development, Backend, etc.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 
-- 👯 I’m looking to collaborate on Web Development and Open Source Projects, and New Ideas.
+- 👯 I’m looking to collaborate on Software Development and Open Source Projects, and New Ideas.
 
-- 💬 Talk to me about C++, Python, JavaScript, Java, React, Freelancing Opportunities, Open Source.
+- 💬 Talk to me about DSA - Problem Solving, Generative AI, Blockchain, Freelancing Opportunities and Open Source Projects.
 
 
 
