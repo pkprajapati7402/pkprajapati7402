@@ -67,6 +67,7 @@ My name is Prince, and I work as a Software Developer. 🚀 Currently, I'm pursu
   <a href="https://leetcode.com/alfaceti/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/alfaceti/" target="_blank"><img align="center" src="lcfifty.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/alfaceti/" target="_blank"><img align="center" src="25100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/alfaceti/" target="_blank"><img align="center" src="leetcode-200.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 
 
