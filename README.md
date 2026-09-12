@@ -91,6 +91,17 @@ My name is Prince, and I work as a Software Developer. 🚀 Currently, I'm pursu
 </p>
 
 
+<h2 align="center" style="color:white;">🐍 Contribution Graph Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkprajapati7402/pkprajapati7402/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pkprajapati7402/pkprajapati7402/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/pkprajapati7402/pkprajapati7402/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
 ---
 
 Thanks for stopping by! 😊
